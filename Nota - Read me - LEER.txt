@@ -1,0 +1,3 @@
+Profe espero que este mensaje lo encuentre bien, en el archivo de resolución - consultas les dejé todas las consultas desde la primera hasta la ultima (resolviendo de manera puntual cada uno de los puntos, duh).
+
+De igual manera, en el archivo DML están todas las consultas al final del archivo para que si desea, pueda comprobarlos con solo ejecutarlos, lindo resto de noche/día.
